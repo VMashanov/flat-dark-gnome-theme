@@ -821,7 +821,7 @@ StScrollBar StButton#hhandle:active {
 /* TOP BAR */
 
 #panel {
-    background-color: rgba(83, 82, 82, 1);
+    background-color: #404040;
     border-bottom: 1px solid #000;
     font-weight: bold;
     height: 1.86em;
